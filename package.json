@@ -1,7 +1,7 @@
 {
-  "name": "c2b-weixin",
+  "name": "mpvue-demo",
   "version": "1.0.0",
-  "description": "c2b的微信小程序",
+  "description": "微信小程序demo",
   "author": "zhoujian <758507292@qq.com>",
   "private": true,
   "scripts": {

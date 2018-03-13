@@ -1,6 +1,6 @@
-# c2b-weixin
+# weixin
 
-> c2b的微信小程序
+> mpvue-vuex-persistedstate
 
 ## Build Setup
 
